@@ -1,0 +1,11 @@
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/bin/Debug/net7.0/contracts.deps.json
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/bin/Debug/net7.0/contracts.dll
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/bin/Debug/net7.0/contracts.pdb
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/contracts.AssemblyInfoInputs.cache
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/contracts.AssemblyInfo.cs
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/contracts.csproj.CoreCompileInputs.cache
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/contracts.dll
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/refint/contracts.dll
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/contracts.pdb
+/Users/tylerlouwerse/Documents/portfolio/breakfast-api/contracts/obj/Debug/net7.0/ref/contracts.dll

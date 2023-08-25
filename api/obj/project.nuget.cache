@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Drs47tQCVspHP3LZ1VIlwbWFrOfFaR2q6qX7/kamceNrlf165UAW+0LvsdWwbIMmop7oC/u1k97olVvyItE/xA==",
+  "success": true,
+  "projectFilePath": "/Users/tylerlouwerse/Documents/portfolio/breakfast-api/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/tylerlouwerse/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
